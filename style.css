@@ -68,3 +68,21 @@ footer {
 footer img {
   vertical-align: middle;
 }
+
+.heart-icon {
+  width: 20px;
+  height: 20px;
+  animation: pulse 1s ease infinite;
+}
+
+@keyframes pulse {
+  0% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.2);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
