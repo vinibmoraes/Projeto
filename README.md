@@ -1,0 +1,1 @@
+Este é um projeto de landing page simples, desenvolvido como parte dos meus estudos em HTML e CSS. O objetivo principal deste projeto é criar uma página de destino visualmente atraente e funcional, utilizando as melhores práticas de desenvolvimento web.
