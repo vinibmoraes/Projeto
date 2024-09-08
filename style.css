@@ -75,6 +75,26 @@ footer img {
   animation: pulse 1s ease infinite;
 }
 
+.button {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #573a37;
+  color: #f0e8c2;
+  text-decoration: none;
+  border-radius: 5px;
+  font-size: 18px;
+  transition: background-color 0.3s ease;
+}
+
+.button:hover {
+  background-color: #291b1a;
+}
+
+#more-recipes {
+  text-align: center;
+  margin-top: 24px;
+}
+
 @keyframes pulse {
   0% {
     transform: scale(1);
